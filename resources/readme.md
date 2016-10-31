@@ -16,6 +16,18 @@ skype: [san_asm](skype:san_asm?chat)
 
 ##Experience
 
+####[CBT](https://github.com/tim-zh/cbt)
+
+open source project
+
+Oct 2016 - present
+
+- fun, fast, intuitive, compositional, statically checked builds written in Scala (build tool)
+- top 3 contributor
+- full development (web interface design, ui server, business logic) of Lightbend Activator analogue
+
+Scala
+
 ####[wartremover](https://github.com/tim-zh/wartremover)
 
 open source project

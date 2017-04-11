@@ -26,7 +26,7 @@ Oct 2016 - present
 - top 3 contributor
 - full development (web interface design, ui server, business logic) of Lightbend Activator analogue
 
-Scala
+Scala, JavaScript, HTML/CSS
 
 ####[wartremover](https://github.com/tim-zh/wartremover)
 
@@ -35,13 +35,26 @@ open source project
 May 2016 - present
 
 - Flexible Scala code linting tool (compiler plugin + sbt plugin)
-- top 5 contributor
+- top 3 contributor
+- collaborator
 
 Scala, scalac
 
-####[ETAS IDE dev team](http://www.etas.com/)
+####[Project Falcon](https://www.kronos.com/)
 
-Epam Systems
+Kronos Inc. / Epam Systems
+
+Sep 2016 - present
+
+- SaaS tenant management system
+- domain REST service development
+- tests
+
+Java, SQL, Spring
+
+####[ASCET IDE](http://www.etas.com/)
+
+ETAS / Epam Systems
 
 Dec 2015 - Jul 2016
 
@@ -52,7 +65,7 @@ Dec 2015 - Jul 2016
 
 Java, SWT, Eclipse RCP, EMF, XText
 
-####[Kyriba SaaS dev team](http://www.kyriba.com/)
+####[Kyriba SaaS](http://www.kyriba.com/)
 
 Kyriba Corp. / Belhard Development
 

@@ -16,6 +16,17 @@ skype: [san_asm](skype:san_asm?chat)
 
 ##Experience
 
+####[Scalastyle](https://github.com/tim-zh/scalastyle)
+
+open source project
+
+Apr 2017 - present
+
+- Scalastyle examines your Scala code and indicates potential problems with it
+- top 10 contributor
+
+Scala, scalariform
+
 ####[CBT](https://github.com/tim-zh/cbt)
 
 open source project

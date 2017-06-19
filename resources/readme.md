@@ -1,4 +1,4 @@
-#Tim Zhlobich
+# Tim Zhlobich
 
 (legal name Tima Jlobitch)
 
@@ -8,15 +8,15 @@ Minsk, Belarus
 
 skype: [san_asm](skype:san_asm?chat)
 
-##Links
+## Links
 
 [GitHub](http://github.com/tim-zh)
 
 [LinkedIn](http://www.linkedin.com/in/timzh)
 
-##Experience
+## Experience
 
-####[Scalastyle](https://github.com/tim-zh/scalastyle)
+#### [Scalastyle](https://github.com/tim-zh/scalastyle)
 
 open source project
 
@@ -27,7 +27,7 @@ Apr 2017 - present
 
 Scala, scalariform
 
-####[CBT](https://github.com/tim-zh/cbt)
+#### [CBT](https://github.com/tim-zh/cbt)
 
 open source project
 
@@ -39,7 +39,7 @@ Oct 2016 - present
 
 Scala, JavaScript, HTML/CSS
 
-####[wartremover](https://github.com/tim-zh/wartremover)
+#### [wartremover](https://github.com/tim-zh/wartremover)
 
 open source project
 
@@ -51,7 +51,7 @@ May 2016 - present
 
 Scala, scalac
 
-####[Project Falcon](https://www.kronos.com/)
+#### [Project Falcon](https://www.kronos.com/)
 
 Kronos Inc. / Epam Systems
 
@@ -63,7 +63,7 @@ Sep 2016 - present
 
 Java, SQL, Spring
 
-####[ASCET IDE](http://www.etas.com/)
+#### [ASCET IDE](http://www.etas.com/)
 
 ETAS / Epam Systems
 
@@ -76,7 +76,7 @@ Dec 2015 - Jul 2016
 
 Java, SWT, Eclipse RCP, EMF, XText
 
-####[Kyriba SaaS](http://www.kyriba.com/)
+#### [Kyriba SaaS](http://www.kyriba.com/)
 
 Kyriba Corp. / Belhard Development
 
@@ -93,7 +93,7 @@ Sep 2012 - Nov 2015
 
 Java, SQL, JavaScript, HTML/CSS, Scala, Java EE, Swing, Guava, EclipseLink, JBoss, JUnit, Mockito
 
-####Support level 3
+#### Support level 3
 
 Kyriba Corp. / Belhard Development
 
@@ -106,7 +106,7 @@ Mar 2015 - Nov 2015
 
 Java, SQL, Scala, Python, JConsole, JBoss
 
-####G1 migration project
+#### G1 migration project
 
 Kyriba Corp. / Belhard Development
 
@@ -119,7 +119,7 @@ Jul 2013 - Aug 2013
 
 Java, JConsole, JVisualVM, GCViewer
 
-####Kyriba Web Interface framework
+#### Kyriba Web Interface framework
 
 Kyriba Corp. / Belhard Development
 
@@ -132,7 +132,7 @@ Jav 2013 - Feb 2014
 
 Java, JavaScript, HTML/CSS, GWT, jQuery, Highcharts.js, Velocity
 
-####[Spkr](https://github.com/tim-zh/spkr)
+#### [Spkr](https://github.com/tim-zh/spkr)
 
 open source project
 
@@ -145,7 +145,7 @@ Jan 2016 - Apr 2016
 
 Scala, JavaScript, HTML/CSS, MongoDB, nginx, docker, Play framework, Apache Kafka, Morphia, Akka, Guice
 
-####[Repost](https://github.com/tim-zh/repost)
+#### [Repost](https://github.com/tim-zh/repost)
 
 open source project
 
@@ -157,7 +157,7 @@ Apr 2014 - Sep 2014
 
 Scala, JavaScript, HTML/CSS, H2, Play framework, Akka, Slick, Squeryl, Bootstrap, jQuery
 
-####IT service
+#### IT service
 
 Vendia Ltd.
 
@@ -169,11 +169,11 @@ Aug 2010 - Aug 2012
 
 MS server, C#, JavaScript, HTML/CSS
 
-##Education
+## Education
 
 no bachelor's degree
 
-####Belarusian State University
+#### Belarusian State University
 
 Applied Mathematics
 
@@ -181,7 +181,7 @@ Applied Mathematics
 
 some university courses
 
-####Belarusian State University of Informatics and Radioelectronics
+#### Belarusian State University of Informatics and Radioelectronics
 
 Computer Science
 

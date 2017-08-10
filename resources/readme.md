@@ -23,7 +23,7 @@ open source project
 Apr 2017 - present
 
 - Scalastyle examines your Scala code and indicates potential problems with it
-- top 10 contributor
+- top 3 contributor
 
 Scala, scalariform
 
@@ -55,13 +55,13 @@ Scala, scalac
 
 Kronos Inc. / Epam Systems
 
-Sep 2016 - present
+Sep 2016 - Aug 2017
 
 - SaaS tenant management system
 - domain REST service development
 - tests
 
-Java, SQL, Spring
+Java, Spring, Postgres, Jenkins
 
 #### [ASCET IDE](http://www.etas.com/)
 

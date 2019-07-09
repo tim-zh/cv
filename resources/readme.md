@@ -16,28 +16,18 @@ skype: [san_asm](skype:san_asm?chat)
 
 ## Experience
 
-#### [Scalastyle](https://github.com/tim-zh/scalastyle)
+#### [Adform User Tracking](https://site.adform.com/)
 
-open source project
+Adform
 
-Apr 2017 - present
+Aug 2017 - Jun 2019
 
-- Scalastyle examines your Scala code and indicates potential problems with it
-- top 3 contributor
+- management tools of user activity tracking
+- domain REST & GraphQL services development
+- architecture and rollout planning
+- performance analysis
 
-Scala, scalariform
-
-#### [CBT](https://github.com/tim-zh/cbt)
-
-open source project
-
-Oct 2016 - present
-
-- fun, fast, intuitive, compositional, statically checked builds written in Scala (build tool)
-- top 3 contributor
-- full development (web interface design, ui server, business logic) of Lightbend Activator analogue
-
-Scala, JavaScript, HTML/CSS
+Scala, C#, Java, SQL, MongoDB, Akka, Slick, ASP .NET Core, docker, k8s
 
 #### [wartremover](https://github.com/tim-zh/wartremover)
 
@@ -50,6 +40,18 @@ May 2016 - present
 - collaborator
 
 Scala, scalac
+
+#### [CBT](https://github.com/tim-zh/cbt)
+
+open source project
+
+Oct 2016 - present
+
+- fun, fast, intuitive, compositional, statically checked builds written in Scala (build tool)
+- top 3 contributor
+- full development (web interface design, ui server, business logic) of Lightbend Activator analogue
+
+Scala, JavaScript, HTML/CSS
 
 #### [Project Falcon](https://www.kronos.com/)
 
@@ -131,6 +133,17 @@ Jav 2013 - Feb 2014
 - widgets, server communication development
 
 Java, JavaScript, HTML/CSS, GWT, jQuery, Highcharts.js, Velocity
+
+#### [Scalastyle](https://github.com/tim-zh/scalastyle)
+
+open source project
+
+Apr 2017 - Jun 2017
+
+- Scalastyle examines your Scala code and indicates potential problems with it
+- top 3 contributor
+
+Scala, scalariform
 
 #### [Spkr](https://github.com/tim-zh/spkr)
 

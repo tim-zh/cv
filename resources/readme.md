@@ -98,8 +98,6 @@ open source project, Jan 2016 - Apr 2016
 
 Scala, JavaScript, HTML/CSS, MongoDB, nginx, docker, Play framework, Apache Kafka, Morphia, Akka, Guice
 
-<div style="page-break-after: always;"></div>
-
 ## Education
 
 no bachelor's degree

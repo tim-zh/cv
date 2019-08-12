@@ -2,6 +2,8 @@
 
 (legal name Tima Jlobitch)
 
+#### Senior Software Developer
+
 Minsk, Belarus, 220121 (open to relocate)
 
 [tim.zhlobich@gmail.com](mailto:tim.zhlobich@gmail.com)

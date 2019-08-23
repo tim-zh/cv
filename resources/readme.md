@@ -22,6 +22,11 @@ skype: [san_asm](skype:san_asm?chat)
 
 Adform, Aug 2017 - Jun 2019
 
+Adform is one of top European advertising platforms, it provides Sell Side and Buy Side capabilities
+to manage ad campaigns and to configure ad serving. The core part in this process is Site Tracking,
+which allows site administrators to use UI to create and customize scripts that serve ad banners and simultaneously track user activity.
+Gathered information is used in reports, similar to Google Analytics.
+
 - management tools of user activity tracking
 - end-to-end domain REST & GraphQL services development
 - architecture and release planning

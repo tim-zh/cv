@@ -18,6 +18,16 @@ skype: [san_asm](skype:san_asm?chat)
 
 ##### 7+ years of Scala/Java/full-stack product development
 
+#### [Evolution Gaming, Dice](https://www.evolutiongaming.com/)
+
+Evolution Gaming, Sep 2019 - present
+
+Evolution Gaming is the world leader in live casino providers market.
+
+- development & support of Dice games suite
+
+Scala, Akka Persistence, Cats, Monix, Kafka, Cassandra, k8s
+
 #### [Adform (Integrated Advertising Platform), Site Tracking](https://site.adform.com/)
 
 Adform, Aug 2017 - Jun 2019

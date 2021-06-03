@@ -28,10 +28,7 @@ Scala, Akka Persistence, Cats, Monix, Kafka, Cassandra, k8s
 
 Adform, Aug 2017 - Jun 2019
 
-Adform is one of top European advertising platforms, it provides Sell Side and Buy Side capabilities
-to manage ad campaigns and to configure ad serving. The core part in this process is Site Tracking,
-which allows site administrators to use UI to create and customize scripts that serve ad banners and simultaneously track user activity.
-Gathered information is used in reports, similar to Google Analytics.
+Advertising platform provider.
 
 - management tools of user activity tracking
 - end-to-end domain REST & GraphQL services development
@@ -39,16 +36,6 @@ Gathered information is used in reports, similar to Google Analytics.
 - performance analysis
 
 Scala, C#, Java, SQL, MongoDB, Akka, Slick, ASP .NET Core, docker, k8s, JMC
-
-#### [wartremover](https://github.com/tim-zh/wartremover)
-
-open source project, May 2016 - present
-
-- Flexible Scala code linting tool (compiler plugin + sbt plugin)
-- top 3 contributor
-- collaborator
-
-Scala, scalac
 
 #### [Project Falcon](https://www.kronos.com/)
 
@@ -59,6 +46,17 @@ Kronos Inc. / Epam Systems, Sep 2016 - Aug 2017
 - tests
 
 Java, Spring Boot, Postgres, Jenkins
+
+#### [ASCET IDE](http://www.etas.com/)
+
+ETAS / Epam Systems, Dec 2015 - Jul 2016
+
+- Eclipse-based IDE for automotive industry
+- UI development
+- providing support for custom language model
+- tests
+
+Java, SWT, Eclipse RCP, EMF, XText
 
 #### [Kyriba SaaS](http://www.kyriba.com/)
 
@@ -72,31 +70,29 @@ Kyriba Corp. / Belhard Development, Sep 2012 - Nov 2015
     - business logic
     - UI
     - tests
+- support level 3
+    - customer case investigations
+    - code & performance analysis
+    - log analysis
+    - development of log processing tools
+- G1 migration team
+    - benchmark development
+    - gathering statistics and comparing JVM garbage collectors
+    - analyzing G1 weak spots
+    - preparing migration procedure
 - organization of a series of internal workshops on ML, distributed systems, text indexing, Scala, Java compilation process
 
-Java, SQL, JavaScript, HTML/CSS, Scala, Java EE, Swing, Guava, EclipseLink, JBoss, JUnit, Mockito
+Java, SQL, JavaScript, HTML/CSS, Scala, Java EE, Swing, Guava, EclipseLink, JBoss, JUnit, Mockito, JConsole, JVisualVM, GCViewer
 
-#### Support level 3
+#### [wartremover](https://github.com/tim-zh/wartremover)
 
-Kyriba Corp. / Belhard Development, Mar 2015 - Nov 2015
+open source project, May 2016 - present
 
-- customer case investigations
-- code & performance analysis
-- log analysis
-- development of log processing tools
+- Flexible Scala code linting tool (compiler plugin + sbt plugin)
+- top 3 contributor
+- collaborator
 
-Java, SQL, JConsole
-
-#### G1 migration project
-
-Kyriba Corp. / Belhard Development, Jul 2013 - Aug 2013
-
-- benchmark development
-- gathering statistics and comparing JVM garbage collectors
-- analyzing G1 weak spots
-- preparing migration procedure
-
-Java, JConsole, JVisualVM, GCViewer
+Scala, scalac
 
 #### [Spkr](https://github.com/tim-zh/spkr)
 

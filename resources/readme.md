@@ -1,14 +1,10 @@
-# Tim Zhlobich
-
-(legal name Tima Jlobitch)
+# Timofey Zhlobich
 
 #### Senior Software Developer
 
-Minsk, Belarus, 220121 (open to relocate)
+Minsk, Belarus, 220121 (relocation only)
 
 [tim.zhlobich@gmail.com](mailto:tim.zhlobich@gmail.com)
-
-skype: [san_asm](skype:san_asm?chat)
 
 [GitHub](http://github.com/tim-zh)
 
@@ -16,7 +12,7 @@ skype: [san_asm](skype:san_asm?chat)
 
 ## Experience highlights
 
-##### 7+ years of Scala/Java/full-stack product development
+##### 8+ years of Scala/Java/full-stack product development
 
 #### [Evolution Gaming, Dice](https://www.evolutiongaming.com/)
 

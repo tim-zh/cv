@@ -16,7 +16,7 @@ Minsk, Belarus, 220121 (relocation only)
 
 #### [Evolution Gaming, Dice](https://www.evolutiongaming.com/)
 
-Evolution Gaming, Sep 2019 - present
+Evolution Gaming, Minsk, Belarus, Sep 2019 - Aug 2021
 
 Evolution Gaming is the world leader in live casino providers market.
 
@@ -26,7 +26,7 @@ Scala, Akka Persistence, Cats, Monix, Kafka, Cassandra, k8s
 
 #### [Adform (Integrated Advertising Platform), Site Tracking](https://site.adform.com/)
 
-Adform, Aug 2017 - Jun 2019
+Adform, Minsk, Belarus, Aug 2017 - Jun 2019
 
 Advertising platform provider.
 
@@ -39,7 +39,7 @@ Scala, C#, Java, SQL, MongoDB, Akka, Slick, ASP .NET Core, docker, k8s, JMC
 
 #### [Project Falcon](https://www.kronos.com/)
 
-Kronos Inc. / Epam Systems, Sep 2016 - Aug 2017
+Kronos Inc. / Epam Systems, Minsk, Belarus, Sep 2016 - Aug 2017
 
 - SaaS tenant management system
 - domain REST service development
@@ -49,7 +49,7 @@ Java, Spring Boot, Postgres, Jenkins
 
 #### [ASCET IDE](http://www.etas.com/)
 
-ETAS / Epam Systems, Dec 2015 - Jul 2016
+ETAS / Epam Systems, Minsk, Belarus, Dec 2015 - Jul 2016
 
 - Eclipse-based IDE for automotive industry
 - UI development
@@ -60,7 +60,7 @@ Java, SWT, Eclipse RCP, EMF, XText
 
 #### [Kyriba SaaS](http://www.kyriba.com/)
 
-Kyriba Corp. / Belhard Development, Sep 2012 - Nov 2015
+Kyriba Corp. / Belhard Development, Minsk, Belarus, Sep 2012 - Nov 2015
 
 - proactive treasury management platform
 - top 3 contributor

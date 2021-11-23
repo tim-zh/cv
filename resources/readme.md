@@ -1,4 +1,3 @@
-# Timofey Zhlobich
 
 #### Senior Software Developer
 
@@ -12,7 +11,17 @@ Minsk, Belarus, 220121 (relocation only)
 
 ## Experience highlights
 
-##### 8+ years of Scala/Java/full-stack product development
+##### 9+ years of Scala/Java/full-stack product development
+
+#### [NewMotion / Shell Recharge, Settlement](https://newmotion.com)
+
+Shell EV Charging Solutions, Amsterdam, Netherlands, Sep 2021 - present
+
+NewMotion provides everything from charging stations to mobile apps for drivers
+
+- development & support of settlement/subscriptions/tariffs domain
+
+Scala, Cats, Zio, Kafka, Postgres, k8s, AWS
 
 #### [Evolution Gaming, Dice](https://www.evolutiongaming.com/)
 

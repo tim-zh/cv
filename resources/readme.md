@@ -11,17 +11,18 @@ Minsk, Belarus, 220121 (relocation only)
 
 ## Experience highlights
 
-##### 9+ years of Scala/Java/full-stack product development
+##### 10 years of Scala/Java/full-stack product development
 
-#### [NewMotion / Shell Recharge, Settlement](https://newmotion.com)
+#### [Shell Recharge (former NewMotion), Settlement](https://newmotion.com)
 
 Shell EV Charging Solutions, Amsterdam, Netherlands, Sep 2021 - present
 
-NewMotion provides everything from charging stations to mobile apps for drivers
+Shell Recharge provides everything from charging stations to mobile apps for drivers
 
-- development & support of settlement/subscriptions/tariffs domain
+- development & support of settlement/subscriptions/tariffs domain (backend services)
+- Scrum master
 
-Scala, Cats, Zio, Kafka, Postgres, k8s, AWS
+Scala, Akka, Cats, Kafka, Postgres, k8s, AWS
 
 #### [Evolution Gaming, Dice](https://www.evolutiongaming.com/)
 
@@ -29,7 +30,7 @@ Evolution Gaming, Minsk, Belarus, Sep 2019 - Aug 2021
 
 Evolution Gaming is the world leader in live casino providers market.
 
-- development & support of Dice games suite
+- development & support of Dice and Deal/No Deal games suites
 
 Scala, Akka Persistence, Cats, Monix, Kafka, Cassandra, k8s
 
@@ -102,17 +103,6 @@ open source project, May 2016 - present
 - collaborator
 
 Scala, scalac
-
-#### [Spkr](https://github.com/tim-zh/spkr)
-
-open source project, Jan 2016 - Apr 2016
-
-- asynchronous voice chat
-- full stack dev
-- docker-based deployment
-- MediaRecorder integration
-
-Scala, JavaScript, HTML/CSS, MongoDB, nginx, docker, Play framework, Apache Kafka, Morphia, Akka, Guice
 
 ## Education
 

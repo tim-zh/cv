@@ -1,7 +1,7 @@
 
 #### Senior Software Developer
 
-Minsk, Belarus, 220121 (relocation only)
+Amsterdam, Netherlands
 
 [tim.zhlobich@gmail.com](mailto:tim.zhlobich@gmail.com)
 
